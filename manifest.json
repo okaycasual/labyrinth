@@ -6,7 +6,7 @@
 	"author": "okaycasual",
 	"action": {
 	  "title": "Labyrinth Sheet",
-	  "icon": "",
+	  "icon": "lab.png",
 	  "popover": "/",
 	  "width": 800,
 	  "height": 860
