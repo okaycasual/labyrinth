@@ -1,0 +1,14 @@
+{
+	"name": "Labyrinth Sheet",
+	"version": "1.0.0",
+	"manifest_version": 1,
+	"homepage_url": "https://github.com/okaycasual/labyrinth",
+	"author": "okaycasual",
+	"action": {
+	  "title": "Labyrinth Sheet",
+	  "icon": "",
+	  "popover": "/",
+	  "width": 800,
+	  "height": 860
+	}
+  }
