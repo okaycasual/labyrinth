@@ -7,7 +7,7 @@
 	"action": {
 	  "title": "Labyrinth Sheet",
 	  "icon": "lab.png",
-	  "popover": "/",
+	  "popover": "/labyrinth/",
 	  "width": 800,
 	  "height": 860
 	}
